@@ -1,0 +1,7 @@
+streamlit
+geopandas
+matplotlib
+numpy
+pandas
+wordcloud
+vaderSentiment
